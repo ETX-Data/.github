@@ -6,9 +6,10 @@ Welcome to the Every Texan Research & Data GitHub!
 Every Texan is known for practical, data-driven policy solutions. We use high-quality data collected from credible sources, analyzed by our team of experts. We explore data for potential solutions to everyday problems — and we make that data accessible to everyone, from policymakers to concerned Texans. Our goal is to help you visualize and quantify the effects that current policies have and why we need to improve them.
 
 ### Our Work
-:art: **[Tableau Portfolio](https://public.tableau.com/app/profile/everytexan)**
 
 :books: Check our our latest reports, dashboards, data briefs, and more at **[our website](https://everytexan.org/research-data/)**.
+
+:art: **[Tableau Portfolio](https://public.tableau.com/app/profile/everytexan)**
 
 ### Contact Us
 📫 For questions about our methodology or data, please email **[data@everytexan.org](data@everytexan.org)**
