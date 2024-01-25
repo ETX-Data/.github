@@ -1,4 +1,4 @@
-### Hi there 👋:cowboy_hat_face:
+### Hi there 👋
 
 Welcome to the Every Texan Research & Data GitHub!
 
